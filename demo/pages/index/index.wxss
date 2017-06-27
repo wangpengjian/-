@@ -1,0 +1,8 @@
+.container {
+    width: 100%;
+    background-color: lawngreen;
+}
+.container .title {
+    padding: 15rpx;
+    font-size: 14rpx;
+}
